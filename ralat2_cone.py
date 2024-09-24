@@ -1,5 +1,5 @@
 # Atur cara mengira luas permukaan kon.
-# Betulkan ralat dalam kod Python ini.
+# Betulkan ralat dalam kod Python ini. 
 
 import math
 pi = 3.142
