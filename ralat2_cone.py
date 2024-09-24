@@ -15,7 +15,7 @@ def kira_luas_permukaan_kon(r, h):
 
 def main_cone():
     (x, y) = dapat_jejari_tinggi()
-    luas_permukaan_kon = kira_luas_permukaann_kon(x, y)
+    luas_permukaan_kon = kira_luas_permukaan_kon(x, y)
     print(f"luas permukaan kon = {luas_permukaan_kon:.2f}")
 
 # JANGAN ubah kod di bawah baris ini!
